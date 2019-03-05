@@ -1,1 +1,1 @@
-# SLIIT Workshop
+# SLIIT-Workshop
