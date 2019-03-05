@@ -1,1 +1,1 @@
-# MAD_Final
+# SLIIT Workshop
